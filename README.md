@@ -7,7 +7,11 @@ Technologies Used
 ----------------
 
 SPRING BOOT
+
 SWAGGER - document generation 
+
 SWAGGER UI - API Testing
+
 JAVA -1.8
+
 H2 DATABASE 
